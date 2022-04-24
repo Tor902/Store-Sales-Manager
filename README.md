@@ -3,13 +3,13 @@ Store Sales Manager
 
 Q: What is it?
 A: a program that can help you keep track of all the products that are sold, who it was sold to, how much profit you made selling it and send customers a notification with your own message.
-Overall Functionalities:
-•	Add product and add customers contact information
-•	Search a Product
-•	Show all product and who bought each one
-•	Delete products from database
-•	show total profit/loss
-•	send all customers a notification of coming sales
+Overall Functionalities:  
+•	Add product and add customers contact information  
+•	Search a Product  
+•	Show all product and who bought each one  
+•	Delete products from database  
+•	show total profit/loss  
+•	send all customers a notification of coming sales  
 
 Q: For who? 
 A: The program is for the use of the cashier or manager.
